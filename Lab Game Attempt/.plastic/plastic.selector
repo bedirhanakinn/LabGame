@@ -1,0 +1,4 @@
+repository "chem 3@local"
+  path "/"
+    br "/main"
+    co "/main"
